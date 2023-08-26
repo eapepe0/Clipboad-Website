@@ -14,7 +14,7 @@ Pagina hecha con tailwindcss
 
 ## Deploy
 
-[Link a la pagina]()
+[Link a la pagina](https://zesty-cuchufli-53f6c2.netlify.app/)
 [Link a la pagina marcada](https://64e9028a0ade103b4c35e4ba--magenta-fudge-79e55a.netlify.app/)
 
 ## Correr Tailwind
